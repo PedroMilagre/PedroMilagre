@@ -13,4 +13,4 @@
 - 🏡 [Alugue Já](link) – Site de anúncios de imóveis.  
 
 📫 **Conecte-se comigo:**  
-[LinkedIn](https://linkedin.com/in/pedromilagre) | [Email](mailto:seuemail@gmail.com)  
+[LinkedIn](https://linkedin.com/in/pedromilagre-dev) | [Email](mailto:pmilagre01@gmail.com)  
