@@ -13,7 +13,7 @@
 - 🏡 [Alugue Já](link) – Site de anúncios de imóveis.  
 
 📫 **Conecte-se comigo:**  
-[![Email](https://img.shields.io/badge/Email-pmilagre01%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/?view=cm&to=pmilagre01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pmilagre01%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=pmilagre01@gmail.com)
 )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Milagre-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromilagre-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-PedroMilagre-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroMilagre)
