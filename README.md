@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pedro Milagre  
 
-<!--
-**PedroMilagre/PedroMilagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Front-End** | 🎯 **Analista de Sistemas**  
 
-Here are some ideas to get you started:
+📚 **Formação:** Análise e Desenvolvimento de Sistemas – Estácio (2023–2025)  
+🛠️ **Tecnologias:**  
+- Front-End: HTML, CSS, JavaScript, React, TailwindCSS  
+- Back-End: Python (básico), APIs REST  
+- Ferramentas: Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projetos em destaque**    
+- 🛒 [Loja de Roupas](link) – E-commerce responsivo com React e Tailwind.   
+- 🏡 [Alugue Já](link) – Site de anúncios de imóveis.  
+
+📫 **Conecte-se comigo:**  
+[LinkedIn](https://linkedin.com/in/pedromilagre) | [Email](mailto:seuemail@gmail.com)  
