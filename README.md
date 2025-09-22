@@ -2,8 +2,7 @@
 
 💻 **Desenvolvedor Front-End** | 🎯 **Analista de Sistemas**  
 
-📚 **Formação:** Análise e Desenvolvimento de Sistemas – Estácio (2023–2025)  
-🛠️ **Tecnologias:**  
+📚 **Formação:** Análise e Desenvolvimento de Sistemas – Estácio (2023–2025)   
 🛠️ **Tecnologias:**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
