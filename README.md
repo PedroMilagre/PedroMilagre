@@ -23,7 +23,7 @@
 
 🚀 **Projetos em destaque**    
 - 🛒 [Loja de Roupas](link) – E-commerce responsivo com React e Tailwind.   
-- 🏡 [Alugue Já](link) – Site de anúncios de imóveis.  
+- 🏡 [Alugue Já](link) – Site de aluguel de veículos.  
 
 📫 **Conecte-se comigo:** 
 
