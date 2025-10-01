@@ -22,7 +22,7 @@
 
 
 🚀 **Projetos em destaque**    
-- 🛒 [Loja de Roupas](link) – E-commerce responsivo com React e Tailwind.   
+- 🛒 [Loja de Roupas](https://pedromilagre.github.io/Loja_de_Roupas/) – E-commerce responsivo com React e Tailwind.   
 - 🏡 [Alugue Já](https://pedromilagre.github.io/Alugue_Ja/) – Site de aluguel de veículos.  
 
 📫 **Conecte-se comigo:** 
