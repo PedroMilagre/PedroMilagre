@@ -2,7 +2,8 @@
 
 💻 **Desenvolvedor Front-End** | 🎯 **Analista de Sistemas**  
 
-📚 **Formação:** Análise e Desenvolvimento de Sistemas – Estácio (2023–2025)   
+📚 **Formação:** Análise e Desenvolvimento de Sistemas – Estácio (2023–2025)
+🎓 Pós-graduação em Engenharia de Software (em andamento)
 🛠️ **Tecnologias:**
 
 **Front-End**  
